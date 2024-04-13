@@ -1,0 +1,14 @@
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\bin\Debug\net8.0\LABA5WS.exe
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\bin\Debug\net8.0\LABA5WS.deps.json
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\bin\Debug\net8.0\LABA5WS.runtimeconfig.json
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\bin\Debug\net8.0\LABA5WS.dll
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\bin\Debug\net8.0\LABA5WS.pdb
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\obj\Debug\net8.0\LABA5WS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\obj\Debug\net8.0\LABA5WS.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\obj\Debug\net8.0\LABA5WS.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\obj\Debug\net8.0\LABA5WS.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\obj\Debug\net8.0\LABA5WS.dll
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\obj\Debug\net8.0\refint\LABA5WS.dll
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\obj\Debug\net8.0\LABA5WS.pdb
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\obj\Debug\net8.0\LABA5WS.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\LABA5WS\LABA5WS\obj\Debug\net8.0\ref\LABA5WS.dll
